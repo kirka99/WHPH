@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:freezesText="false"
+    android:scrollbarThumbHorizontal="@android:color/black"
+    android:scrollbarThumbVertical="@android:color/black"
+    android:textAllCaps="false"
+    android:textAppearance="@style/AppTheme"
+    android:textColor="#DFE0E4"
+    android:textColorHighlight="#151414"
+    android:textColorHint="#201F1F"
+    android:textColorLink="#191818"
+    android:textCursorDrawable="@android:color/black"
+    android:textIsSelectable="false"
+    android:textSize="36sp"
+    app:fontFamily="@font/bangers" />
